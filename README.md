@@ -25,6 +25,7 @@ Note: The right-click context menu approach isn't currently working. Use the com
 
 ## Example Output
 
+```
 # File: /path/to/your/file.js
 
 # All File Content:
@@ -41,6 +42,7 @@ Error 1:
 Line 3: Cannot find name 'x'.
 Code:   return x + 5;
         ^
+```
 
 ## Why It's Useful
 
