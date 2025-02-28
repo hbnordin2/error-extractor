@@ -2,6 +2,8 @@
 
 A simple VSCode extension that copies file errors with context to your clipboard.
 
+![Screenshot](./images/potato.png)
+
 ## What It Does
 
 This extension adds a command to VSCode that extracts all errors/warnings from your current file along with the file content, making it easy to share with AI assistants or colleagues.
