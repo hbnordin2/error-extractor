@@ -23,6 +23,16 @@ When you have errors in your file:
 
 Note: The right-click context menu approach isn't currently working. Use the command palette instead.
 
+## Why It's Useful
+
+- Share errors with AI assistants like ChatGPT
+- Get help from teammates with full error context
+- Save time compared to manually copying errors
+
+## Requirements
+
+- VSCode 1.60.0 or higher
+
 ## Example Output
 
 ```
@@ -43,16 +53,6 @@ Line 3: Cannot find name 'x'.
 Code:   return x + 5;
         ^
 ```
-
-## Why It's Useful
-
-- Share errors with AI assistants like ChatGPT
-- Get help from teammates with full error context
-- Save time compared to manually copying errors
-
-## Requirements
-
-- VSCode 1.60.0 or higher
 
 ## Contributing
 
