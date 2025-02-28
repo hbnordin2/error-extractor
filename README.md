@@ -2,7 +2,7 @@
 
 A simple VSCode extension that copies file errors with context to your clipboard.
 
-![Screenshot](./images/potato.png)
+![Screenshot](./images/potato.jpeg)
 
 ## What It Does
 
